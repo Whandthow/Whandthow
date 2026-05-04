@@ -99,7 +99,7 @@ Status     CORE_STABILITY: nominal
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=java,python,cs,dotnet,ts,js,nodejs,html,css,spring,django,fastapi,express,react,postgres,mysql,mongodb,redis,docker,kubernetes,linux,bash,git,github,aws,postman,idea,vscode,graphql,nginx&perline=10&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,cs,dotnet,ts,js,html,react,spring,fastapi,nodejs,postgres,mongodb,docker,linux,git,idea,vscode&perline=9&theme=dark)](https://skillicons.dev)
 
 </div>
 
@@ -114,69 +114,47 @@ Status     CORE_STABILITY: nominal
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python" />
       <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&amp;logo=csharp&amp;logoColor=white" alt="C#" />
       <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&amp;logo=dotnet&amp;logoColor=white" alt=".NET" />
-      <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&amp;logo=go&amp;logoColor=white" alt="Go" />
     </td>
     <td valign="top" width="25%" align="center">
-      <strong>Backend Frameworks</strong>
+      <strong>Frameworks &amp; Web</strong>
       <br/><br/>
       <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&amp;logo=spring&amp;logoColor=white" alt="Spring" />
-      <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&amp;logo=django&amp;logoColor=white" alt="Django" />
       <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&amp;logo=fastapi&amp;logoColor=white" alt="FastAPI" />
-      <img src="https://img.shields.io/badge/Express-000000?style=flat-square&amp;logo=express&amp;logoColor=white" alt="Express" />
-      <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square&amp;logo=dotnet&amp;logoColor=white" alt="ASP.NET" />
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&amp;logo=react&amp;logoColor=black" alt="React" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&amp;logo=nodedotjs&amp;logoColor=white" alt="Node.js" />
+      <img src="https://img.shields.io/badge/CSS-264de4?style=flat-square&amp;logo=css3&amp;logoColor=white" alt="CSS" />
     </td>
     <td valign="top" width="25%" align="center">
       <strong>Databases</strong>
       <br/><br/>
       <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL" />
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&amp;logo=mysql&amp;logoColor=white" alt="MySQL" />
       <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&amp;logo=mongodb&amp;logoColor=white" alt="MongoDB" />
-      <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&amp;logo=redis&amp;logoColor=white" alt="Redis" />
-      <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&amp;logo=sqlite&amp;logoColor=white" alt="SQLite" />
     </td>
     <td valign="top" width="25%" align="center">
-      <strong>API &amp; Comms</strong>
+      <strong>DevOps &amp; Shell</strong>
       <br/><br/>
-      <img src="https://img.shields.io/badge/REST%20APIs-005571?style=flat-square" alt="REST APIs" />
-      <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&amp;logo=graphql&amp;logoColor=white" alt="GraphQL" />
-      <img src="https://img.shields.io/badge/gRPC-244c5a?style=flat-square&amp;logo=google&amp;logoColor=white" alt="gRPC" />
-      <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&amp;logo=socket.io&amp;logoColor=white" alt="WebSockets" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&amp;logo=docker&amp;logoColor=white" alt="Docker" />
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&amp;logo=linux&amp;logoColor=black" alt="Linux" />
+      <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&amp;logo=gnubash&amp;logoColor=white" alt="Bash" />
       <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&amp;logo=nginx&amp;logoColor=white" alt="Nginx" />
     </td>
   </tr>
   <tr>
     <td valign="top" width="25%" align="center">
-      <strong>Web &amp; Frontend</strong>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" />
-      <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&amp;logo=javascript&amp;logoColor=black" alt="JavaScript" />
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&amp;logo=react&amp;logoColor=black" alt="React" />
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&amp;logo=nodedotjs&amp;logoColor=white" alt="Node.js" />
-      <img src="https://img.shields.io/badge/HTML-e34c26?style=flat-square&amp;logo=html5&amp;logoColor=white" alt="HTML" />
-    </td>
-    <td valign="top" width="25%" align="center">
-      <strong>DevOps &amp; Cloud</strong>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&amp;logo=docker&amp;logoColor=white" alt="Docker" />
-      <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&amp;logo=kubernetes&amp;logoColor=white" alt="Kubernetes" />
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&amp;logo=linux&amp;logoColor=black" alt="Linux" />
-      <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&amp;logo=gnubash&amp;logoColor=white" alt="Bash" />
-      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&amp;logo=amazonwebservices&amp;logoColor=white" alt="AWS" />
-    </td>
-    <td valign="top" width="25%" align="center">
-      <strong>Build &amp; CI</strong>
+      <strong>Build Tools</strong>
       <br/><br/>
       <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&amp;logo=apachemaven&amp;logoColor=white" alt="Maven" />
       <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&amp;logo=gradle&amp;logoColor=white" alt="Gradle" />
-      <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&amp;logo=githubactions&amp;logoColor=white" alt="GitHub Actions" />
-      <img src="https://img.shields.io/badge/JUnit-25A162?style=flat-square&amp;logo=junit5&amp;logoColor=white" alt="JUnit" />
-      <img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&amp;logo=pytest&amp;logoColor=white" alt="pytest" />
     </td>
     <td valign="top" width="25%" align="center">
+      <strong>Testing</strong>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/JUnit-25A162?style=flat-square&amp;logo=junit5&amp;logoColor=white" alt="JUnit" />
+    </td>
+    <td valign="top" width="50%" align="center" colspan="2">
       <strong>Tools &amp; IDE</strong>
       <br/><br/>
       <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&amp;logo=git&amp;logoColor=white" alt="Git" />
-      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&amp;logo=github&amp;logoColor=white" alt="GitHub" />
       <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&amp;logo=intellijidea&amp;logoColor=white" alt="IntelliJ IDEA" />
       <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&amp;logo=visualstudiocode&amp;logoColor=white" alt="VS Code" />
       <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&amp;logo=postman&amp;logoColor=white" alt="Postman" />
