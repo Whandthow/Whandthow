@@ -99,7 +99,7 @@ Status     CORE_STABILITY: nominal
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=java,python,cs,dotnet,ts,js,html,react,spring,fastapi,nodejs,postgres,mongodb,docker,linux,git,idea,vscode&perline=9&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,cs,dotnet,ts,js,html,css,react,spring,fastapi,nodejs,postgres,mongodb,docker,linux,bash,nginx,maven,gradle,git,idea,vscode,postman&perline=12&theme=dark)](https://skillicons.dev)
 
 </div>
 
