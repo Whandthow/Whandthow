@@ -31,7 +31,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:000003,50:1a0033,100:3d0080&amp;height=70&amp;section=header&amp;text=About%20Me&amp;fontSize=30&amp;fontColor=ffffff&amp;fontAlignY=58" width="100%" alt="About Me" />
 
-I'm a **Backend Polyglot Developer from Ukraine** — I write code in whatever language the problem demands.
+I'm a **Backend Polyglot Developer from Ukraine** - I write code in whatever language the problem demands.
 
 Currently synthesizing systems with **Java**, **Python**, **C#**, and occasionally bending **TypeScript** into shapes it wasn't meant for.
 
@@ -70,7 +70,7 @@ Status     CORE_STABILITY: nominal
       <br/>
       <strong>Polyglot Engineering</strong>
       <br/><br/>
-      Choosing the right language for the right problem &mdash; Java for backbone, Python for tooling, C# for performance, TS for the web.
+      Choosing the right language for the right problem - Java for backbone, Python for tooling, C# for performance, TS for the web.
     </td>
   </tr>
 </table>
@@ -218,7 +218,7 @@ A few projects that best represent how I think about building reliable, polyglot
       <br/><br/>
       <strong>Periodic Idle</strong>
       <br/><br/>
-      A Java-based idle game inspired by chemistry and the periodic table &mdash; focused on mechanics design, balancing, and clean game-loop architecture.
+      A Java-based idle game inspired by chemistry and the periodic table - focused on mechanics design, balancing, and clean game-loop architecture.
       <br/><br/>
       <img src="https://img.shields.io/badge/Java-f89820?style=flat-square&amp;logo=openjdk&amp;logoColor=white" alt="Java" />
     </td>
